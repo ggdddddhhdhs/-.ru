@@ -430,9 +430,9 @@
 }
 
 
-/* --------------------------------------------------------------------320px */
+/* --------------------------------------------------------------------420px */
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup{
         margin-top: 0px!important;
         max-width: 320px;
@@ -440,7 +440,7 @@
     }
 } 
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-pod{
         margin-top: 0;
         max-width: 600px!important;
@@ -448,14 +448,14 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__cont{
         max-width: 510px!important;
         width: 100%;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__place{
         margin-top: -570px;
         margin-left: -97px;
@@ -470,28 +470,28 @@
     }
 } */
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__text-form{
         margin-bottom: 500px;
     }
 } 
 
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__text-title{
         text-align: center;
         padding-right: 10px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__cont-btn{
         margin-left: 87%;
         display: block;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__place-pod{
         max-width: 500px!important;
         width: 100%;
@@ -499,13 +499,13 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__button-par{
         font-size: 40px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-button{
         max-width: 498px!important;
         width: 100%;
@@ -513,21 +513,21 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-button__cont{
         max-width: 498px!important;
         width: 100%;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup__cont-close{
         margin-left: 75%;
         margin-top: 10px;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-button__2{
         max-width: 498px!important;
         width: 100%;
@@ -535,32 +535,32 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .left__ident-title{
         font-size: 40px!important;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .left__ident-bold{
         font-size: 30px!important;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .left__ident-number{
         font-size: 35px!important;
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .left__ident-par{
         font-size: 30px!important;
     }
 }
 
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-2{
         max-width: 498px!important;
         width: 100%;
@@ -568,7 +568,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-3{
         max-width: 498px!important;
         width: 100%;
@@ -576,7 +576,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-4{
         max-width: 498px!important;
         width: 100%;
@@ -584,7 +584,7 @@
     }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 420px){
     .popup-5{
         max-width: 498px!important;
         width: 100%;
